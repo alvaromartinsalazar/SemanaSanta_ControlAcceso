@@ -1,0 +1,4 @@
+1. Crea un repositorio nuevo en github.com y sube el contenido de esta carpeta.
+2. Ve a Actions > Build APK > Run workflow (o se lanza solo al subir).
+3. Al terminar (unos 5-8 min), descarga el artefacto "control-acceso-apk" (app-debug.apk).
+4. Copia el APK al móvil Android e instálalo (permitir orígenes desconocidos).
